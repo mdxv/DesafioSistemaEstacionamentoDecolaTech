@@ -24,3 +24,5 @@ O projeto consiste em um sistema de estacionamento, criado para gerenciar os ve�
 1. Clone este repositório: `https://github.com/mdxv/DesafioSistemaEstacionamentoDecolaTech`
 2. Navegue até o diretório: `cd DesafioSistemaEstacionamentoDecolaTech`
 3. Execute o projeto: `dotnet run`
+4. 
+![Preview](https://i.imgur.com/CaCzfkA.png)
