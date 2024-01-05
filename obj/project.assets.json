@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\projects\\dio\\trilha-net-fundamentos-desafio\\DesafioFundamentos\\DesafioFundamentos.csproj",
+      "projectUniqueName": "D:\\projects\\dio\\DesafioSistemaEstacionamentoDecolaTech\\DesafioFundamentos.csproj",
       "projectName": "DesafioFundamentos",
-      "projectPath": "D:\\projects\\dio\\trilha-net-fundamentos-desafio\\DesafioFundamentos\\DesafioFundamentos.csproj",
+      "projectPath": "D:\\projects\\dio\\DesafioSistemaEstacionamentoDecolaTech\\DesafioFundamentos.csproj",
       "packagesPath": "C:\\Users\\devmo\\.nuget\\packages\\",
-      "outputPath": "D:\\projects\\dio\\trilha-net-fundamentos-desafio\\DesafioFundamentos\\obj\\",
+      "outputPath": "D:\\projects\\dio\\DesafioSistemaEstacionamentoDecolaTech\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\devmo\\AppData\\Roaming\\NuGet\\NuGet.Config"

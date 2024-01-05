@@ -16,7 +16,14 @@ namespace DesafioFundamentos.Models
         {
             Console.WriteLine("Digite a placa do veículo para estacionar:");
             string veiculoAdicionado = Console.ReadLine();
-            veiculos.Add(veiculoAdicionado);
+
+            if (veiculos.Contains(veiculoAdicionado)) {
+                System.Console.WriteLine("Este veículo já consta em nosso banco de dados.");
+            } else {
+                veiculos.Add(veiculoAdicionado);
+                System.Console.WriteLine($"Veículo {veiculoAdicionado} adicionado com sucesso!");
+            }
+
         }
 
         public void RemoverVeiculo()
@@ -51,8 +58,10 @@ namespace DesafioFundamentos.Models
             {
                 Console.WriteLine("Os veículos estacionados são:");
 
-                foreach (string i in veiculos) {
-                    System.Console.WriteLine(i);
+                int contadorDePlacas = 0;
+                foreach (string placas in veiculos) {
+                    System.Console.WriteLine($"{contadorDePlacas + 1} | {placas}");
+                    contadorDePlacas++;
                 }
             }
             else

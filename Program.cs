@@ -8,10 +8,20 @@ decimal precoPorHora = 0;
 
 Console.WriteLine("Seja bem vindo ao sistema de estacionamento!\n" +
                   "Digite o preço inicial:");
-precoInicial = Convert.ToDecimal(Console.ReadLine());
+try {
+    precoInicial = Convert.ToDecimal(Console.ReadLine());
+} catch {
+    System.Console.WriteLine("Você digitou um valor inválido.");
+    return;
+}
 
-Console.WriteLine("Agora digite o preço por hora:");
-precoPorHora = Convert.ToDecimal(Console.ReadLine());
+try {
+    Console.WriteLine("Agora digite o preço por hora:");
+    precoPorHora = Convert.ToDecimal(Console.ReadLine());
+} catch {
+    System.Console.WriteLine("Você digitou um valor inválido.");
+    return;
+}
 
 // Instancia a classe Estacionamento, já com os valores obtidos anteriormente
 Estacionamento es = new Estacionamento(precoInicial, precoPorHora);
