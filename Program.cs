@@ -6,8 +6,8 @@ Console.OutputEncoding = System.Text.Encoding.UTF8;
 decimal precoInicial = 0;
 decimal precoPorHora = 0;
 
-Console.WriteLine("Seja bem vindo ao sistema de estacionamento!\n" +
-                  "Digite o preço inicial:");
+Console.Write("Seja bem vindo ao sistema de estacionamento!\n" +
+                  "Digite o preço inicial: ");
 try {
     precoInicial = Convert.ToDecimal(Console.ReadLine());
 } catch {
@@ -16,7 +16,7 @@ try {
 }
 
 try {
-    Console.WriteLine("Agora digite o preço por hora:");
+    Console.Write("Agora digite o preço por hora: ");
     precoPorHora = Convert.ToDecimal(Console.ReadLine());
 } catch {
     System.Console.WriteLine("Você digitou um valor inválido.");
@@ -39,6 +39,7 @@ while (exibirMenu)
     Console.WriteLine("3 - Listar veículos");
     Console.WriteLine("4 - Encerrar");
 
+    System.Console.Write("> ");
     switch (Console.ReadLine())
     {
         case "1":

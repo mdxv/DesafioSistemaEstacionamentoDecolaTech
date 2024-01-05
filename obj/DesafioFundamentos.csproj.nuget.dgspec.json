@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\projects\\dio\\DesafioSistemaEstacionamentoDecolaTech\\DesafioFundamentos.csproj": {}
+    "C:\\Users\\BNX\\dev\\DesafioSistemaEstacionamentoDecolaTech\\DesafioFundamentos.csproj": {}
   },
   "projects": {
-    "D:\\projects\\dio\\DesafioSistemaEstacionamentoDecolaTech\\DesafioFundamentos.csproj": {
+    "C:\\Users\\BNX\\dev\\DesafioSistemaEstacionamentoDecolaTech\\DesafioFundamentos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projects\\dio\\DesafioSistemaEstacionamentoDecolaTech\\DesafioFundamentos.csproj",
+        "projectUniqueName": "C:\\Users\\BNX\\dev\\DesafioSistemaEstacionamentoDecolaTech\\DesafioFundamentos.csproj",
         "projectName": "DesafioFundamentos",
-        "projectPath": "D:\\projects\\dio\\DesafioSistemaEstacionamentoDecolaTech\\DesafioFundamentos.csproj",
-        "packagesPath": "C:\\Users\\devmo\\.nuget\\packages\\",
-        "outputPath": "D:\\projects\\dio\\DesafioSistemaEstacionamentoDecolaTech\\obj\\",
+        "projectPath": "C:\\Users\\BNX\\dev\\DesafioSistemaEstacionamentoDecolaTech\\DesafioFundamentos.csproj",
+        "packagesPath": "C:\\Users\\BNX\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\BNX\\dev\\DesafioSistemaEstacionamentoDecolaTech\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\devmo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\BNX\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"

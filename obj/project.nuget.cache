@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "7EAFR9KiTFMMnvUyjf/9GddeDHpi/OSFRYvyAaIDZknR5I0TXCNs4NuxyCNNqnMBO/JNx4uEis4VZ/nqlb90Wg==",
+  "dgSpecHash": "wvvTXYFn8HmNVuXPKtkynSDvqenZDPf6xAL7y8iDohWoSiAXRlihvkMJ9uGTH51ms5hsc25JwvuG8SmQwbytWQ==",
   "success": true,
-  "projectFilePath": "D:\\projects\\dio\\DesafioSistemaEstacionamentoDecolaTech\\DesafioFundamentos.csproj",
+  "projectFilePath": "C:\\Users\\BNX\\dev\\DesafioSistemaEstacionamentoDecolaTech\\DesafioFundamentos.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\devmo\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
-    "C:\\Users\\devmo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
-    "C:\\Users\\devmo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
-    "C:\\Users\\devmo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+    "C:\\Users\\BNX\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\BNX\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\BNX\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\BNX\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
   ],
   "logs": []
 }
