@@ -1,3 +1,9 @@
+<p align="center">
+    <a href="https://www.dio.me/">
+      <img align="center" src="https://lp.dio.me/wp-content/uploads/2023/03/LOGO-DIO-COLOR-768x311.png" width="200">
+    </a>
+</p>
+
 # Sistema de Estacionamento em C# - Desafio DIO & AVANADE
 
 Este é o repositório do desafio de um sistema de estacionamento desenvolvido em C# da DIO em parceria com a AVANADE.
